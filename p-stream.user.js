@@ -10,8 +10,8 @@
 // @grant        unsafeWindow
 // @run-at       document-start
 // @connect      *
-// @updateURL    https://raw.githubusercontent.com/p-stream/Userscript/main/p-stream.user.js
-// @downloadURL  https://raw.githubusercontent.com/p-stream/Userscript/main/p-stream.user.js
+// @updateURL    https://raw.githubusercontent.com/xp-technologies-dev/Userscript/main/p-stream.user.js
+// @downloadURL  https://raw.githubusercontent.com/xp-technologies-dev/Userscript/main/p-stream.user.js
 // ==/UserScript==
 
 (function () {
